@@ -1,0 +1,257 @@
+[
+    {
+        "chunk_number": 1,
+        "keywords": [
+            {
+                "keyword": "deep learning",
+                "importance": "high",
+                "reason": "Core subject of the training being introduced"
+            },
+            {
+                "keyword": "AI applications",
+                "importance": "high",
+                "reason": "Mentioned as built on top of deep learning"
+            },
+            {
+                "keyword": "industrial revolution 4.0",
+                "importance": "medium",
+                "reason": "Speaker describes himself as an Industry 4.0 implementer"
+            },
+            {
+                "keyword": "chief data scientist",
+                "importance": "high",
+                "reason": "Speaker’s professional title, relevant for data‑science learners"
+            },
+            {
+                "keyword": "technology advisor",
+                "importance": "medium",
+                "reason": "Repeated role across multiple companies, indicating expertise"
+            },
+            {
+                "keyword": "learning management system (LMS)",
+                "importance": "high",
+                "reason": "Platform where the recorded session will be stored for learners"
+            },
+            {
+                "keyword": "recorded training session",
+                "importance": "high",
+                "reason": "Session is being recorded for later consumption, a key logistical detail"
+            },
+            {
+                "keyword": "master's degree IIT",
+                "importance": "low",
+                "reason": "Educational credential that adds credibility"
+            },
+            {
+                "keyword": "Indian School of Business",
+                "importance": "low",
+                "reason": "Another credential supporting the speaker’s authority"
+            },
+            {
+                "keyword": "HSBC",
+                "importance": "low",
+                "reason": "One of the major companies the speaker has worked with"
+            },
+            {
+                "keyword": "Infosys",
+                "importance": "low",
+                "reason": "Another notable employer mentioned"
+            },
+            {
+                "keyword": "Deloitte",
+                "importance": "low",
+                "reason": "Additional prominent employer cited"
+            },
+            {
+                "keyword": "360 digital transformation",
+                "importance": "medium",
+                "reason": "Phrase used to describe the scope of projects delivered"
+            },
+            {
+                "keyword": "data science projects",
+                "importance": "medium",
+                "reason": "Implied by speaker’s role and experience"
+            },
+            {
+                "keyword": "online training delivery",
+                "importance": "high",
+                "reason": "Describes the mode of instruction for the deep‑learning course"
+            },
+            {
+                "keyword": "screen sharing in virtual classroom",
+                "importance": "medium",
+                "reason": "Technical activity performed during the session"
+            },
+            {
+                "keyword": "bluetooth microphone for clear audio",
+                "importance": "low",
+                "reason": "Specific equipment mentioned to improve communication"
+            },
+            {
+                "keyword": "session recording for future consumption",
+                "importance": "high",
+                "reason": "Key benefit highlighted for learners"
+            },
+            {
+                "keyword": "technology consulting",
+                "importance": "medium",
+                "reason": "Overall service area of the speaker across multiple firms"
+            },
+            {
+                "keyword": "project delivery in data analytics",
+                "importance": "medium",
+                "reason": "Describes the nature of work the speaker has performed"
+            }
+        ]
+    },
+    {
+        "chunk_number": 2,
+        "keywords": [
+            {
+                "keyword": "LinkedIn connection limit 30,000",
+                "importance": "high",
+                "reason": "Specifies the platform constraint that affects how students can connect with the instructor"
+            },
+            {
+                "keyword": "data engineer placement",
+                "importance": "high",
+                "reason": "Key outcome highlighted for students completing the program"
+            },
+            {
+                "keyword": "data science training program",
+                "importance": "high",
+                "reason": "Core educational offering around which the transcript revolves"
+            },
+            {
+                "keyword": "student success stories",
+                "importance": "high",
+                "reason": "Shows real‑world results and is a strong SEO phrase for prospective learners"
+            },
+            {
+                "keyword": "placement rate 20 people per month",
+                "importance": "medium",
+                "reason": "Quantifies the program’s effectiveness and can attract search queries about placement statistics"
+            },
+            {
+                "keyword": "professional placement statistics",
+                "importance": "medium",
+                "reason": "Broad term that captures data about working‑professional hires"
+            },
+            {
+                "keyword": "lazy loading feature",
+                "importance": "medium",
+                "reason": "Technical term mentioned when describing how success stories are displayed on the website"
+            },
+            {
+                "keyword": "HR department networking",
+                "importance": "medium",
+                "reason": "Highlights the ongoing support and relationship management for alumni"
+            },
+            {
+                "keyword": "sharing LinkedIn profiles on social media",
+                "importance": "high",
+                "reason": "Addresses a common student concern and is a searchable phrase for privacy and networking topics"
+            },
+            {
+                "keyword": "career placement outcomes",
+                "importance": "high",
+                "reason": "Encapsulates the overall goal of the program and matches search intent of job‑seeking students"
+            },
+            {
+                "keyword": "company hiring openings",
+                "importance": "medium",
+                "reason": "Relevant for students looking to leverage alumni connections for job leads"
+            },
+            {
+                "keyword": "artificial intelligence session agenda",
+                "importance": "medium",
+                "reason": "Signals the next educational topic and can be used as a heading in the blog"
+            },
+            {
+                "keyword": "student privacy concerns",
+                "importance": "medium",
+                "reason": "Reflects the hesitation some students have about publicizing their placement details"
+            },
+            {
+                "keyword": "networking with alumni",
+                "importance": "high",
+                "reason": "Key strategy for job search and a common search phrase for graduates"
+            },
+            {
+                "keyword": "placement success booklet",
+                "importance": "low",
+                "reason": "Specific resource mentioned that can be referenced in a blog section"
+            },
+            {
+                "keyword": "working professionals placed in companies",
+                "importance": "medium",
+                "reason": "Highlights that a large portion of placements are for existing professionals"
+            },
+            {
+                "keyword": "success story lazy loading scroll",
+                "importance": "low",
+                "reason": "Combines two concepts from the transcript for a niche technical description"
+            },
+            {
+                "keyword": "HR alumni relationship management",
+                "importance": "low",
+                "reason": "Describes the ongoing support structure for past trainees"
+            }
+        ]
+    },
+    {
+        "chunk_number": 3,
+        "keywords": [
+            {
+                "keyword": "deep learning algorithms",
+                "importance": "high",
+                "reason": "Core technology mentioned as the basis for building the system"
+            },
+            {
+                "keyword": "traditional machine learning algorithms",
+                "importance": "high",
+                "reason": "Contrasted with deep learning, indicating a key educational topic"
+            },
+            {
+                "keyword": "machine learning algorithms",
+                "importance": "high",
+                "reason": "General term encompassing both deep and traditional approaches"
+            },
+            {
+                "keyword": "deep learning",
+                "importance": "high",
+                "reason": "Fundamental concept underlying the discussed system"
+            },
+            {
+                "keyword": "traditional machine learning",
+                "importance": "high",
+                "reason": "Important category of algorithms referenced for comparison"
+            },
+            {
+                "keyword": "built using deep learning",
+                "importance": "medium",
+                "reason": "Phrase describing how the system is constructed"
+            },
+            {
+                "keyword": "algorithmic approach comparison",
+                "importance": "medium",
+                "reason": "Implied contrast between deep and traditional methods"
+            },
+            {
+                "keyword": "AI model architecture",
+                "importance": "medium",
+                "reason": "Underlying structure implied by the use of deep learning algorithms"
+            },
+            {
+                "keyword": "supervised vs. unsupervised learning",
+                "importance": "low",
+                "reason": "Common distinction related to traditional vs. deep learning methods"
+            },
+            {
+                "keyword": "neural network based models",
+                "importance": "medium",
+                "reason": "Typical implementation of deep learning algorithms"
+            }
+        ]
+    }
+]
